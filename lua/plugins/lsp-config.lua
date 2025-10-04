@@ -9,7 +9,7 @@ return {
     "mason-org/mason-lspconfig.nvim",
     config = function()
       require("mason-lspconfig").setup({
-        ensure_installed = { "lua_ls", "clangd", "asm_lsp", "omnisharp", "html", "cssls", "ts_ls", "jdtls", "pyright" }
+        ensure_installed = {} --enter your preferred lsps here
       })
     end
   },
@@ -33,3 +33,4 @@ return {
     end
   }
 }
+
