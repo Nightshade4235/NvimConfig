@@ -22,4 +22,4 @@ This config was inspired by [Typecraft's Neovim config setup](https://www.youtub
 
 
 
-P.S. make sure to check the config files to add your own lsps. ^-^
+P.S. In the /plugins folder i have removed the lsp-config file because it caused a lot of problems when cloning.
