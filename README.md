@@ -19,3 +19,7 @@ It is recomended to run ```:Lazy Update``` after installation and cloning
 All credit goes to Typecraft as...
 
 This config was inspired by [Typecraft's Neovim config setup](https://www.youtube.com/watch?v=zHTeCSVAFNY) ^-^ have fun
+
+
+
+P.S. make sure to check the config files to add your own lsps. ^-^
