@@ -19,3 +19,4 @@ vim.g.maplocalleader = "\\"
 
 require("vim-options")
 require("lazy").setup("plugins")
+vim.keymap.set('n', '<leader>t', ':terminal<CR>', { noremap = true, silent = true })
